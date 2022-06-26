@@ -1,1 +1,1 @@
-# self-recognition
+# Self Recognition
