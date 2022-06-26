@@ -10,9 +10,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.layers import Dense, Flatten, Dropout
 from keras.models import Model
 from tensorflow.keras.optimizers import Adam
-import matplotlib.pyplot as plt
 from pathlib import Path
-import pandas as pd
 
 from tensorflow.keras.applications.densenet import DenseNet169, preprocess_input
 
